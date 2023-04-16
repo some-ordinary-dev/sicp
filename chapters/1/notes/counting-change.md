@@ -1,4 +1,4 @@
-## Exercise: Counting Change
+# Exercise: Counting Change
 
 Tree-recursive solution
 
